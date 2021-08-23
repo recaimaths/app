@@ -1,3 +1,4 @@
 merhaba
+ben duzelttim
 remote masterdan gelen guncelleme
 remote masterdan ikinci satir
