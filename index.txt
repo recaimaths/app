@@ -1,1 +1,2 @@
 merhaba
+remote masterdan gelen guncelleme
